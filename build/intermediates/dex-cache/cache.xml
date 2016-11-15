@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProjects\ClientMvp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\AndroidProjects\ClientMvp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_0b3f76426609985f00c044869718ad99b8fd62f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProjects\ClientMvp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\AndroidProjects\ClientMvp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_3021694aac2b323594ce25f4ffaa31da81ae82aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProjects\ClientMvp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\AndroidProjects\ClientMvp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_27ee8d534b033c5350867b5476fe483940065705.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProjects\ClientMvp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\AndroidProjects\ClientMvp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_be5bc250406a1746aeeffad48915818de0684ffb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProjects\ClientMvp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\AndroidProjects\ClientMvp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_c52e957de1736abe85424f4d9f316e8186db8a4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProjects\ClientMvp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidProjects\ClientMvp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_33560bd3e25cccaac5d321b349e46b5c279acc32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProjects\ClientMvp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\AndroidProjects\ClientMvp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_11f82dbe06b89700e8b5589c0e763f9134560ad4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProjects\ClientMvp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\AndroidProjects\ClientMvp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_c30c32bef86b76550c738a59bfa477b679c97942.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProjects\ClientMvp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\AndroidProjects\ClientMvp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_228622b4ca2ea3f457cff9e60418f9feaf12126b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProjects\ClientMvp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\AndroidProjects\ClientMvp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_28c99beacdecdd1a8d6026d155a9617bf211d892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\simepy\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\AndroidProjects\ClientMvp\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_a37bb4bbf6c8303946eb44172425142f532a2960.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProjects\ClientMvp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\AndroidProjects\ClientMvp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_7e74fc57974ee6e22a3b5301cf53d616ba0d07e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProjects\ClientMvp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\AndroidProjects\ClientMvp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_01321d2f7181838c655143ad1360ab786961e925.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProjects\ClientMvp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\AndroidProjects\ClientMvp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_bee1d946663ca7231d24b97b7dec00142722d03e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProjects\ClientMvp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\AndroidProjects\ClientMvp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_f26a788d8986603341e75178b3ee133afbb2b36d.jar" />
+    </item>
+
+</items>
